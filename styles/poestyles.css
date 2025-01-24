@@ -10,6 +10,7 @@ body.home {
   background-position: left top;
   /* margin-left: 300px; */
   margin-left: 315px;
+  padding-bottom: 50px;
 }
 
 body.home * {
