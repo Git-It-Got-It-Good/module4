@@ -10,7 +10,7 @@ body.home {
   background-position: left top;
   /* margin-left: 300px; */
   margin-left: 315px;
-  padding-bottom: 50px;
+  padding-bottom: 50px; /* This padding shows up locally but does not seen to appear online, even though I reuploaded the file. */
 }
 
 body.home * {
